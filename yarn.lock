@@ -2194,6 +2194,26 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
+playwright-chromium@1.12.3:
+  version "1.12.3"
+  resolved "https://artifactory.tools.devrtb.com:443/artifactory/api/npm/npm-virtual/playwright-chromium/-/playwright-chromium-1.12.3.tgz#fd8fe42a83b2bbaf616b01615e412f26cdc65859"
+  integrity sha1-/Y/kKoOyu69hawFhXkEvJs3GWFk=
+  dependencies:
+    commander "^6.1.0"
+    debug "^4.1.1"
+    extract-zip "^2.0.1"
+    https-proxy-agent "^5.0.0"
+    jpeg-js "^0.4.2"
+    mime "^2.4.6"
+    pngjs "^5.0.0"
+    progress "^2.0.3"
+    proper-lockfile "^4.1.1"
+    proxy-from-env "^1.1.0"
+    rimraf "^3.0.2"
+    stack-utils "^2.0.3"
+    ws "^7.4.6"
+    yazl "^2.5.1"
+
 playwright@1.12.3:
   version "1.12.3"
   resolved "https://artifactory.tools.devrtb.com:443/artifactory/api/npm/npm-virtual/playwright/-/playwright-1.12.3.tgz#113afa2cba10fb56e9a5b307377343e32a155a99"

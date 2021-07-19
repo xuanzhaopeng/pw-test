@@ -16,7 +16,7 @@ export class DriverService {
 
 
 	public constructor() {
-		const pw = require('playwright')
+		const pw = require('playwright-chromium')
 		this.pwInstance = pw['chromium']
 		this.devices = pw['devices']
 	}
