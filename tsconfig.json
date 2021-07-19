@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "commonjs",
+		"strict": true,
+		"allowJs": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"moduleResolution": "node",
+		"forceConsistentCasingInFileNames": true,
+		"outDir": "target/",
+		"types": ["@types/jest"]
+	}
+}
+
